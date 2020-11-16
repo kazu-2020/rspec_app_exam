@@ -1,0 +1,19 @@
+current directory: /Users/mimata/Desktop/runteq/rspec_app_exam/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+/Users/mimata/.anyenv/envs/rbenv/versions/2.6.3/bin/ruby -I /Users/mimata/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20201116-76943-7y71e6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mimata/Desktop/runteq/rspec_app_exam/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/mimata/Desktop/runteq/rspec_app_exam/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/mimata/Desktop/runteq/rspec_app_exam/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20201116-76943-1ellg2c/byebug
