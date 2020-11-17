@@ -33,4 +33,4 @@
 # Ignore .idea files
 .idea
 
-vender/bundle
+vendor/bundle
